@@ -1,2 +1,2 @@
 # MiniEx
-Screenshot_1.png
+![alt text](Screenshot_1.png)
