@@ -1,2 +1,2 @@
 # MiniEx
-![alt text](Screenshot_1.png)
+Mini Exercises. Yir
