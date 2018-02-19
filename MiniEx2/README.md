@@ -2,6 +2,7 @@
 https://rawgit.com/MOSN97/MiniEx/master/MiniEx2/empty-example/index.html
 
 Note 1: There is more than one way to progress in The Game About Circles
+
 Note 2: There will be audio played at some point during the program, but not immediately (and, don't worry,  it's not super loud or anything :-) )
 
 ![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx2/Screenshot_1.png)
