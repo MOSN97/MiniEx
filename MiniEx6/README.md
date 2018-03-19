@@ -1,7 +1,7 @@
 # MiniEx 6 - A Generative Clock
 https://rawgit.com/MOSN97/MiniEx/master/MiniEx6/empty-example/index.html
 
-Note: If you open the program when the minutes on your computer are 00 (Like at 13:00 for example), there won't be any shapes and the screen will be completly white. This is not because the program is not working, just wait and shapes will start appearing when the minute changes.
+Note: If you open the program when the minutes on your computer are 00 (Like at 13:00 for example), there won't be any shapes and the screen will be completly white. This is not because the program is not working, just wait and shapes will start appearing when the minute changes. The shape created for the first second is also always either a straight line or nothing, which is a consequence of the "formula" I have used (read further down or see the code for more details).
 
 The idea: The program works kind of like the clock in the way that it shows a number of shapes equal to the number of seconds your computers clock shows (which is why there is never 60 shapes as a clock would just move onto the next minute instead). Furthermore the program also changes background color every minute, thus showing when a minute has passed (but not directly what minute it is currently at though).
 
