@@ -15,7 +15,7 @@ var monthName = ['January', 'February', 'March', 'April', 'May', 'June', 'July',
 var counter = 0;
 
 function preload() {
-	loadJSON("http://www.astro-phys.com/api/de406/states?date=1900-1-1&bodies=mercury,venus,earth,mars,jupiter,uranus,neptune&unit=au", gotData);
+	loadJSON("https://www.astro-phys.com/api/de406/states?date=1900-1-1&bodies=mercury,venus,earth,mars,jupiter,uranus,neptune&unit=au", gotData);
 }
 
 function setup() {
@@ -71,7 +71,7 @@ function draw() {
 	counter++;
 	}
 	if (loading == false) {
-	loadJSON("http://www.astro-phys.com/api/de406/states?date=" + year.toString() + "-" + month.toString() + "-1&bodies=mercury,venus,earth,mars,jupiter,uranus,neptune&unit=au", gotData);
+	loadJSON("https://www.astro-phys.com/api/de406/states?date=" + year.toString() + "-" + month.toString() + "-1&bodies=mercury,venus,earth,mars,jupiter,uranus,neptune&unit=au", gotData);
 	loading = true;
 	}
 	push();
