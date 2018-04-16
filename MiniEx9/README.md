@@ -1,4 +1,4 @@
-# MiniEx 9 - Flow Charts
+# MiniEx 9 - A Flowchart Trailing Flowcharts
 
 **Part 1:**
 
