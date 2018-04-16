@@ -4,7 +4,7 @@
 
 Note: I wouldn't exactly call the program I have chosen for this my most "technically complex" one, but I choose it because even this relatively simple program can result in a somewhat complex flowchart:
 
-![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx7/Screenshot_13.png)
+![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx9/Screenshot_13.png)
 
 The MiniEx: https://github.com/MOSN97/MiniEx/tree/master/MiniEx1
 
@@ -22,13 +22,13 @@ Our ideas strives from a program that removes adjectives, to one that neutralize
 
 The flowchart we have made for this idea is based on an algorithm that is supposed to get the news articles from a website, analyse the text for adjectives and then remove them. When the program as gone through the whole text it shal print the new and changed article.
 
-![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx7/Flowchart.png)
+![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx9/Flowchart.png)
 
 Second idea: Web content filter
 
 Our idea for the second flowchart is in the same category as our first idea. Instead of a program that removes adjectives, we want this program to have an input field where you can write different words you don’t want to read articles about. So like our first idea the program will get an article or some other content from a website, and then analyse the content for the keywords that you didn’t want to see. This program gives the users some control of what they are going to look at online by choosing what not to see.
 
-![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx7/Flowchart2.png)
+![alt text](https://github.com/MOSN97/MiniEx/blob/master/MiniEx9/Flowchart2.png)
 
 2. How are these flowcharts different from my own one?
 
